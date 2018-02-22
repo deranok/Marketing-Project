@@ -2,13 +2,24 @@ Outline
 
 Executive Summary
 	  - Not more than one and half pages
-	  -
+	  	- Background
+		- Objectives
+		- Strategy
+		- Proposed Financial Results
 
 
 Mission and Vision
 	- Mission statement
+		- Either it is online or we need to get
+			- If it exits, does it need improvement?
+			What considerations may be needed in order to improve it.
 	- Vision
+		- Either it is online or we need to get
+			- If it exits, does it need improvement?
+			What considerations may be needed in order to improve it.
 	- Core Values
+		- Already online.
+		Should we add more? Which ones should be removed. 
 
 Situational Analysis
 	    - Internal Analysis
@@ -56,8 +67,20 @@ Strategy
 	- The Ansoff's matrix
 	- Website and social media vibrancy
 	- Entrepreneural and leadership development
-	- Customer Intimacy
+	- Customer and Supplier Intimacy
 
 Tatics
+	- Product
+	- Price
+	- Promotion
+	- Place
+	- Process
+	- People
+	- Programs
 
 Implementation and Control
+	- Making Financial Projections 
+	- Reporting
+	- Control
+	
+REFERENCES
