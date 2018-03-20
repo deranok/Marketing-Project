@@ -1,0 +1,44 @@
+*Marketing Audit
+** Marketing environment audit
+*** Macro-economic: Economic-Demographic:
+                             - Inflation
+			       - Inflation projections in Ghana
+			       - Current inflation
+			       - Inflation trend
+			       - How it affects them
+			       - Historical strategies for dealing with inflation
+			     - Material availability
+			       - Suppliers
+			       - Key suppliers?
+			       - Strategies for handling shortages
+			     - Unemployment levels
+			       - Macroeconomic unemployment level
+			       - How does it affect them?
+			     - Credit availability
+			       - Short-run
+			       - Intermediate-run
+			       - Long-run
+			     - Forecasted trends in population:
+			       - Demographics : to find out the size of the target market
+			     - Exchange rate fluctuations
+*** Macro-Environment: Technology:
+    - New production technology innovations?
+    - New processes as compared to existing process.
+    - Substitute technologies that can replace the existing product.
+*** Macro-Environment: Political-Legal:
+    - Effects of the change in government:
+      - In the industry in general
+      - The individual company.
+    - Laws
+      - Tax laws
+      - EPA requirements
+      - Standards authority requirements
+      - Labour laws
+      - Advertising laws
+      - Price control
+      - Others?
+*** Macro-Evironment: Social-Cultural:
+    - Culture of demography
+    - Attitude of the public towards the company
+    - Attitude of the public towards the products of the products of the company
+    - Attitude of the population towards the industry in general (e.i. the generic product)
