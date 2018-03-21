@@ -25,6 +25,7 @@
     - New production technology innovations?
     - New processes as compared to existing process.
     - Substitute technologies that can replace the existing product.
+
 *** Macro-Environment: Political-Legal:
     - Effects of the change in government:
       - In the industry in general
@@ -37,8 +38,112 @@
       - Advertising laws
       - Price control
       - Others?
+
 *** Macro-Evironment: Social-Cultural:
     - Culture of demography
     - Attitude of the public towards the company
     - Attitude of the public towards the products of the products of the company
     - Attitude of the population towards the industry in general (e.i. the generic product)
+    - Changes in tastes and preferences of the demography
+    - Changes in consumer values that can affect the company's target market and marketing methods
+
+*** Markets 
+    - Market size: growth
+    - What are the market segments?
+      - What are their growth rates.
+      - Geographical distribution
+    - Are there any new products on the market?
+    - Are there frequent product innovations
+
+*** Customers
+    - How do current customers and prospects rate the company and its competitors with respect to:
+      - Reputation
+      - Product quality
+      - Service
+      - Sales-force
+      - Price
+    - What affects the buying decisions of the customers?
+    - Are the company's offerings satisfying the customer?
+    - What are the changing needs that are being sought by the customer
+*** Competitors
+    - Who are the major competitors in the industry as a whole?
+    - Who are the specific competitors for the company?
+    - What are the current strategies of the competitors in terms of
+      - The company's benchmark competitors
+      - The big players in the industry
+      - The company's specific competitors
+    - Market share of each competitors
+
+*** Distribution and dealers
+    - Who are the main channels that bring products to customers
+      - Are they the same for every company?
+    - Do they try to eliminate some middlemen from the distribution channel?
+    - Direct selling to customers?
+    - Are there new innovations in the distribution channel or any
+      existing problems in the distribution channels that could be
+      economically solved
+
+*** Suppliers 
+    - Ease to reaching suppliers
+    - Availabity to raw material (shortages)
+    - Quality Issues of product
+    - Amount of suppliers of raw material
+    - relationship among suppliers (cartels)
+
+*** Facilitators
+    - the outlook of transportation services
+    - cost and availabitity of warehousing
+    - availabity of financial resource
+    - effectiveness of advertisement agency performing. trends occuring in advertisement
+    - strength of the company's facilitators (e.i. transport,
+      advertisement, finance, etc) with respect to competitors
+
+
+** Marketing Strategy Audit
+
+*** Marketing Objectives
+    - Does the company have a mission statement and vision statement?
+    - What are the company's current objectives for each business unit
+      e.g marketing, finance, hr (for the year under review)
+    - How does the objectives for other business units support the
+      marketing objectives?
+    - Do the marketing objective fit the company's current internal
+      and external environment?
+
+*** Strategy
+    - What activities has the company done so far to achieve its strategic goals?
+    - Does the company allocate adequate financial resources for the
+      marketing department to achieve its goals.
+    - What strategy does the company use to allocate resources to its
+      market segments?
+    - Are marketing resources allocated based on the 4Ps of marketing
+      mix
+
+** Marketing Organization Audit
+
+*** Formal Structure
+    - What is the organisational structure of the marketing department?
+    - Is there a sub-division in the marketing department that handles
+      the customer complaints and dissatisfaction?
+    - Is there a sub-division in the marketing department that
+      evaluates customer satisfaction?
+    - Are the marketing responsibilities optimally structured along
+      functional, product, end-user and territorial lines?
+    - Are there product managers or a product management unit for each
+      product?
+
+*** Functional Efficiency
+    - How well do the sales and marketing units co-operate?
+    - Is there an efficient product management system in place?
+    - Does the company consistently meet its planned sales volume and
+      planned profit?
+
+*** Interface Efficiency
+    - 
+
+** Marketing Systems Audit
+*** Marketing Information System
+*** Marketing Planning System
+*** Marketing Control System
+*** New Product Development System
+
