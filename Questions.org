@@ -1,22 +1,24 @@
 * All the things we may need
 ** Internal Questions
 *** Technological
-   - What role does technology play in research and development of new products
-   - Are there technologically enhanced quality assurance
+   - What role does technology play in research and development of new products in this company.
+   - Are there technologically enhanced quality assurance procedures?
    - Do you recycle the aluminium products?
-   - Are there new products that are used as substitutes for any of your products?
-   - Are there any reported incidence of accidents that occured from the use of any of your products?
+   - Do use recycled aluminium as input?
+   - Are there new substitutes for your products on the market?
+   - Are there any reported incidents of accidents that have occured from the use of any of your products?
    - How did you deal with these reports?
    - Have you taken any steps to make the your products more environmentally friendly?
    - Are there any improvements to any products within the industry?
    - Are there any new technological processes that can give the firm competitive advantage?
+   - Are any of your competitors using new technology that is giving them a competitive advantage?
+
 *** General
-    - How long have you been in business
-    - Who are your major competitors
-    - Can you list a few of your competitors?
+    - How long have you been in business?
+    - Who are your major competitors?
     - How big is your company compared to your competition
     - How does your competition try to distinguish themselves (Quality, Price, Exclusive lines, Service, etc.)
-    - Do the fulfill their claim (from the question above)
+    - Do they fulfill their claims? (from the question above)
     - What unique benefit do you provide that your competitors don't?
     - What is the trend in the customer demographic? (growing, dimishing, aging, etc.)
     - Describe your best customer.
@@ -32,17 +34,73 @@
     - Do you have any weakness or bad public perception?
     - What are the current changes in the industry that you are aware of?
     - What are the competitive areas (price, design, widespread distribution)
+    - Are there any key suppliers that supply inputs to you and your competitors?
+    - Can you negotiate prices with your suppliers?
+    - Do you have any international suppliers or customers?
+      - How do you manage the exchange rate fluctuations that occur?
+    - How does a change in government affect you?
+    - Who are the major competitors in the industry as a whole?
+    - What are the current strategies of the competitors in terms of
+      - The company's benchmark competitors
+      - The big players in the industry
+      - The company's specific competitors
+    - Market share of each competitors
+    - Cost and availabitity of warehousing
+    - Effectiveness of advertisement agency performing 
+    - Trends occuring in advertisement
+    - Strength of the company's facilitators (e.i. transport,
+      advertisement, finance, etc) with respect to competitors
+    - Does the company have a mission statement and vision statement?
+    - What are the company's current objectives for each business unit
+      e.g marketing, finance, hr (for the year under review)
+    - How does the objectives for other business units support the
+      marketing objectives?
+    - What activities has the company done so far to achieve its strategic goals?
+    - Does the company allocate adequate financial resources for the
+      marketing department to achieve its goals.
+    - What strategy does the company use to allocate resources to its
+      market segments?
+    - Are marketing resources allocated based on the 4Ps of marketing
+      mix?
 
 *** Financial
     - What is the current maket share percentage of the company?
     - How much is invested in trying to reach expected sales volume (for the past 4 years)
     - How much does it cost to innovate?
     - What is the impact of advetisements on profits?
+    - Does inflation impact your business? How?
+    - How have you dealt with the impact of inflation in the past?
+    - Does the general unemployment in the country affect you in any way?
+    - Do you face any problems in raising finances to meet:
+      - Short-term business plans?
+      - Intermediate-term business plans?
+      - Long-term business plans?
+    - 
 
-** Documents
+*** Human Resources
+*** Customers
+*** Suppliers
+    - Who are the main channels that bring products to customers
+      - Are they the same for every company?
+    - Do they try to eliminate some middlemen from the distribution channel?
+    - Direct selling to customers?
+    - Are there new innovations in the distribution channel or any
+      existing problems in the distribution channels that could be
+      economically solved
+    - Is it difficult to reach your suppliers?
+    - Do you sometimes face shortages of raw materials?
+      - How do you handle shortages?
+    - Do your suppliers always meet your desired quality requirements?
+    - Do you have many alternative suppliers that you could choose from?
+    - Can your suppliers try to collude against you in the industry?
+      (E.i. can they form cartels easily?)
+
+
+*** Competitors
+*** New Entrants, technologies, and processes
+** Internal Documents
 *** General
-    - Sales trend for the past four years
-    - How big is the company compared to their competition
+    - Annual reports for the last 4 years
     - How does your competition try to distinguish themselves (Quality, Price, Exclusive lines, Service, etc.)
     - Do the fulfill their claim (from the question above)
     - What does your broad cross-section of your customers look like?
@@ -52,9 +110,62 @@
       - Income
       - Geographic
     - How much does your competition spend on advertising annually?
-    - What are your competitor's marketing strategies?
+    - Report on competitor analysis
+    - Demographic data on target market:
+      - Their age
+      - Changes in size
+      - Culture that has impact on marketing
+    - What activities has the company done so far to achieve its strategic goals?
+    - Does the company allocate adequate financial resources for the
+      marketing department to achieve its goals.
+    - What strategy does the company use to allocate resources to its
+      market segments?
+    - Are marketing resources allocated based on the 4Ps of marketing
+      mix
+
+*** Organisational and structural stuff
+    - What is the organisational structure of the marketing department?
+    - Is there a sub-division in the marketing department that handles
+      the customer complaints and dissatisfaction?
+    - Is there a sub-division in the marketing department that
+      evaluates customer satisfaction?
+    - Are the marketing responsibilities optimally structured along
+      functional, product, end-user and territorial lines?
+    - Are there product managers or a product management unit for each
+      product?
+
 ** External (Customers) 
+   - Do you think that the company has a favourable image among customers?
+   - How do you view the industry in general? (bad for our culture or good fit for our culture)
+   - Are there any new features that you wish that the product offered?
+   - When you are buying, what other company do you think of buying from?
+   - Assessment of the cultural values that may affect the company's products
+   - How do current customers and prospects rate the company and its competitors with respect to:
+      - Reputation
+      - Product quality
+      - Service
+      - Sales-force
+      - Price
+   - What affects the buying decisions of the customers?
+   - Are the company's offerings satisfying the customer?
+   - What are the changing needs that are being sought by the customer
+
 ** External (Documents)
    - Are there any improvements to any products within the industry?
    - Are there any new technological processes that can give the firm competitive advantage?
-   - Are the
+   - All industry documents (please what are they?)
+     - Industry developments (both ghana and outside)
+   - Annual reports for the competition for the last four years
+   - Ghana population census (all the previous reports)
+   - Inflation estimate (from Ghana Statistical Service)
+   - Demographic data of target market
+   - An assessment of the legal framework of the industry
+   - Who are the major competitors in the industry as a whole?
+   - What are the current strategies of the competitors in terms of
+     - The company's benchmark competitors
+     - The big players in the industry
+     - The company's specific competitors
+   - Market share of each competitors
+
+
+
