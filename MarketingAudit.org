@@ -1,4 +1,4 @@
-*Marketing Audit
+* Marketing Audit
 ** Marketing environment audit
 *** Macro-economic: Economic-Demographic:
                              - Inflation

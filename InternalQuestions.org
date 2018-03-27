@@ -1,11 +1,10 @@
-* All the things we may need
 ** Internal Questions
 *** Technological
    - What role does technology play in research and development of new
      products in this company. 
    - Are there technologically enhanced quality assurance procedures?
    - Do you recycle the aluminium products?
-   - Do use recycled aluminium as input?
+   - Do you use recycled aluminium as input?
    - Are there new substitutes for your products on the market?
    - Are there any reported incidents of accidents that have occured
      from the use of any of your products? 
@@ -22,6 +21,7 @@
     - How long have you been in business?
     - Who are your major competitors?
     - How big is your company compared to your competition
+    - What is the company's mission statement and vision statement?
     - How does your competition try to distinguish themselves
       (Quality, Price, Exclusive lines, Service, etc.) 
     - Do they fulfill their claims? (from the question above)
@@ -70,9 +70,8 @@
     - What are the current trends occuring in advertisement that are
       affecting the business' marketing effort?
     - What are the sales promotion tools of the company?
-    - Strength of the company's facilitators (e.i. transport,
-      advertisement, finance, etc) with respect to competitors
-    - Does the company have a mission statement and vision statement?
+    - Can you compare the strength of the company's facilitators (e.i. transport,
+      advertisement, finance, etc) with your competitors?
     - What are the company's current objectives for each business unit
       e.g marketing, finance, hr (for the year under review)
     - How does the objectives for other business units support the
@@ -173,92 +172,8 @@
 ** Internal Documents
 *** General
     - Annual reports for the last 4 years
-    - How does your competition try to distinguish themselves (Quality, Price, Exclusive lines, Service, etc.)
-    - Do the fulfill their claim (from the question above)
-    - What does your broad cross-section of your customers look like?
-      - Demography
-      - Psychography
-      - Social
-      - Income
-      - Geographic
-    - How much does your competition spend on advertising annually?
     - Report on competitor analysis
     - Demographic data on target market:
       - Their age
       - Changes in size
       - Culture that has impact on marketing
-    - What activities has the company done so far to achieve its strategic goals?
-    - Does the company allocate adequate financial resources for the
-      marketing department to achieve its goals.
-    - What strategy does the company use to allocate resources to its
-      market segments?
-    - Are marketing resources allocated based on the 4Ps of marketing
-      mix
-
-*** Organisational and structural stuff
-    - What is the organisational structure of the marketing department?
-    - Is there a sub-division in the marketing department that handles
-      the customer complaints and dissatisfaction?
-    - Is there a sub-division in the marketing department that
-      evaluates customer satisfaction?
-    - Are the marketing responsibilities optimally structured along
-      functional, product, end-user and territorial lines?
-    - Are there product managers or a product management unit for each
-      product?
-
-** External (Customers) 
-   - Do you think that the company has a favourable image among customers?
-   - How do you view the industry in general? (bad for our culture or good fit for our culture)
-   - Are there any new features that you wish that the product offered?
-   - When you are buying, what other company do you think of buying from?
-   - Assessment of the cultural values that may affect the company's products
-   - How do current customers and prospects rate the company and its competitors with respect to:
-      - Reputation
-      - Product quality
-      - Service
-      - Sales-force
-      - Price
-   - What affects the buying decisions of the customers?
-   - Are the company's offerings satisfying the customer?
-   - What are the changing needs that are being sought by the customer
-   - Do you perceive the firms brand as the best in the market?
-   - Is the firm able to bring out improved and more advanced
-      products? 
-   - What are things you know about this company's product?
-   - How do you feel about the company's product?
-   - Is the firm able to customize product according to a particular
-     customer need?
-   - Can you tell that price reflects perceived quality of the firm’s
-     products? 
-   - How easy are you able to get access to the firm’s products?
-   - How will you rate the overall after-sales services the company
-     provides? 
-   - How do you perceive the firm's product as compared to other
-     brands on the market.
-   - What makes you go for this particular brand over the others?
-   - Can you make a conclusion that there is value for money?
-   - How are complaints handled?
-   - Are the firm’s products easily accessible?
-   - What are your thoughts on the various promotions by the firm for
-     it’s products? 
-   - Is there any product you feel the company should take off the
-     market or improve much upon?
-   - Would you term the firm’s brands as been overpriced?
-
-
-** External (Documents)
-   - Are there any improvements to any products within the industry?
-   - Are there any new technological processes that can give the firm competitive advantage?
-   - All industry documents (please what are they?)
-     - Industry developments (both ghana and outside)
-   - Annual reports for the competition for the last four years
-   - Ghana population census (all the previous reports)
-   - Inflation estimate (from Ghana Statistical Service)
-   - Demographic data of target market
-   - An assessment of the legal framework of the industry
-   - Who are the major competitors in the industry as a whole?
-   - What are the current strategies of the competitors in terms of
-     - The company's benchmark competitors
-     - The big players in the industry
-     - The company's specific competitors
-   - Market share of each competitors
