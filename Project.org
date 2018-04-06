@@ -106,6 +106,8 @@ following.
    products on the market.
  - Services such as delivery, fixing and maintenance checks are provided by
    customers who need them.
+ - The company also engages in CSR activities that help to improve its image.
+ - High quality products to reduce the number of customer complaints.
 
 The current competitive areas on which the company focuses include the
 following. 
@@ -128,6 +130,10 @@ following.
 
  [ Highlight the problem between marketing and other departments here]
 
+In the development of new products, the marketing department is
+allowed to conduct market surveys to determine whether there is a
+market for the new product.
+
 ***** Marketing Systems Audit
 ***** Marketing Productivity Audit
 
@@ -142,11 +148,91 @@ Should the company enter, expand, contract or withdraw from any business
 segments, and what would be the short and long-run profit consequences?
 
 ***** Marketing Function Audit
+
+[Summary paragraph goes here]
+
+The company has been engaged in a program of aggressive advertisements
+for the past years. [how long?]. The marketing manager stated that
+program seems to be effective, as sales shot up after the program was
+initiated.
+
+The company employs both below and above the line advertising
+programs. Above the line (ATL) advertisements are aimed at the target market as
+a whole and it involves the conventional media. The ATL advertisements
+are conducted through the internet, television and radio. Below the
+line (BTL) advertisements are aimed at the target market on an
+individual level. BTL advertisements that the company has employed
+includes the use of fliers. As stated in the Marketing Productivity
+Audit above, all these advertisements costs approximately 7% of
+revenue. This does not seem excessive as the program, according to the
+marketing manager, the increase in sales revenue as a result of
+advertising is higher than the cost of advertising.
 **** Financial Resources
+Inflation has great impact, which often leads to higher prices of raw
+materials, which affects the prices of finished goods.
+
+Most funds are generated through the issuing of shares to
+shareholders, loans and overdraft facility from the banks.
+
+Biggest areas of expenditure are employee motivation (salary, finge
+benefits, etc.) and utilities (fuel, plant, etc.)
+
+Current cost reduction strategies involve the following.
+    - All facilities shut down at the set time (close of work)
+    - Trackers are placed on the company vehicles as a means of
+      curbing unneccessary movement.
+    - Production of good quality products in order to reduce warranty
+      and repair work costs.
 **** Human Resources
+There are approximately 500 employees in the organisation. According
+to the General Manager.
+
+To keep staff motivated, there are both extrinsic and intrisic
+motivation packages.
+
+Prospective employees are recruited through advertisement, poaching,
+use of a pool of C.Vs. 
+
+The process a quite generic, it goes through firs requisition to HR,
+then to interview then to final appointment.
+
+Frequent internal employee appraisals are done.
 **** Technological Appraisal
 ** External Analysis
 *** Customers
+
+[Summary paragraph goes here]
+
+Customers complaints are taken seriously. All complaints are either
+received directly at the office or through phone calls. Each complaint
+is investigated at the site and when the complaint is geniune, the
+appropriate action is taken. The company's internal policy is to
+prevent defects in the first place reduces the number of complaints
+received.
+
+Customers feel that the products of the company are the most durable in the
+market.
+
+Customers believe that the company is delivering on the promises it
+makes in their communications to them.
+
+Customers with special needs are also able to get customized products
+from the company.
+
+Customers do not feel that the company is overpricing its goods. They
+feel that they are getting exactly the quality that they are paying
+for.
+
+Consequently, customers worldprefer the product over others becaus of
+the high quality product, variety of product to meet their needs and
+income, personal relationship with the firm, sales promotion,
+discount, delivery services and maintenance services.
+
+The customers also feel that the company is accessible due to the
+number of the firm's branches, which are distributed strategically to
+cater of each geographical segment of the target market, a website
+through which customers can easily reach them, ask questions and
+receive timely respnse. 
 *** Competitors
 *** Industrial Analysis
 *** Distribution analysis
@@ -156,6 +242,37 @@ segments, and what would be the short and long-run profit consequences?
 **** Current actions
 **** Potential actions
 * SWOT Analysis
+From the internal and external analysis the we have conducted, we have
+identified the unique strengths and weakness of the company and the
+threats and opportunities that are present in the external
+environment. They are discussed in the following sections.
+** Strengths
+   - Large branch network. The company has 5 branches, each equipped
+     with its own production plant. These have been strategically
+     located at places that will help serve each geographical segment
+     seperately.
+   - Adequate staff strength to help meet all dynamic needs of the
+     competitive environment the company finds itself. The staff seem
+     to be knowledgeable and can handle product innovations to meet
+     customers' needs.
+   - The management of the company have a good interpersonal contact network.
+   - Varied products. The product offerings of the company are quite
+     extensive. Each product line also come in different varieties.
+** Weaknesses
+   - No actual credit facility.
+   - Finances are vulnerable to exchange rate fluctuations
+   - Slow grow inthe the international market
+   - Customization?????
+   - Not all managers in the organisation have embraced the marketing
+     orientation concept.
+** Opportunities
+   -
+** Threats
+   - New entrants into the industry. They can offer anything at low
+     prices.
+   - Economic downturns can affect operations.
+   - Frequent changes in utilities bill could impact finances and
+     operations.
 ** The Grid
 ** Analysis of the Grid
 * Critical Issues
