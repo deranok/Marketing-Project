@@ -203,6 +203,9 @@ Frequent internal employee appraisals are done.
 
 [Summary paragraph goes here]
 
+Currently, the population of Ghana is approximately 29.4 million, that
+is, 2.18% growth from the previous year. 
+
 Customers complaints are taken seriously. All complaints are either
 received directly at the office or through phone calls. Each complaint
 is investigated at the site and when the complaint is geniune, the
@@ -255,22 +258,44 @@ environment. They are discussed in the following sections.
      competitive environment the company finds itself. The staff seem
      to be knowledgeable and can handle product innovations to meet
      customers' needs.
-   - The management of the company have a good interpersonal contact network.
+   - The management of the company have a good interpersonal contact
+     network. Through this network, they are able to get
+     recommendations from existing customers whose expectations have been met
+     or even exceeded.
    - Varied products. The product offerings of the company are quite
      extensive. Each product line also come in different varieties.
+   - Due to the size of the company, it can borrow more at relatively
+     lower interest rate.
+   - The company can offer customized products to customers at
+     relatively lower cost.
 ** Weaknesses
    - No actual credit facility.
    - Finances are vulnerable to exchange rate fluctuations
    - Slow grow inthe the international market
-   - Customization?????
    - Not all managers in the organisation have embraced the marketing
      orientation concept.
 ** Opportunities
-   -
+   - Population growth implies that the target market is growing. This means that there is room to
+     increase sales.
+   - More local events such as festivals and street carnivals are
+     avenues that the company can use to promote itself.
+   - Increased internet usage among Ghanaians implies more of the
+     target demography can be reached in a much more easier and cost
+     effective way.
+   - The increase in the number of real estate development companies
+     creates an opportunity for the company to partner with each of
+     these companies in order to increase sales.
+   - The removal of trade bariers within the ECOWAS region has led to
+     an opening up of the West African market to the company.
 ** Threats
-   - New entrants into the industry. They can offer anything at low
+   - New entrants into the industry. They can offer anything at ridiculously low
      prices.
-   - Economic downturns can affect operations.
+   - Frequent changes in the exchange rate causes the price of their
+     product to fluctuate in the market.
+   - Inflation within the economy has a significant impact on the
+     company because consumers cannot purchase more
+     products. Inflation can also lead to higher prices of inputs to
+     the company.
    - Frequent changes in utilities bill could impact finances and
      operations.
 ** The Grid
