@@ -285,6 +285,7 @@ environment. They are discussed in the following sections.
    - The increase in the number of real estate development companies
      creates an opportunity for the company to partner with each of
      these companies in order to increase sales.
+   - Currently the housing deficit in Ghana stands at 
    - The removal of trade bariers within the ECOWAS region has led to
      an opening up of the West African market to the company.
 ** Threats
@@ -299,6 +300,50 @@ environment. They are discussed in the following sections.
    - Frequent changes in utilities bill could impact finances and
      operations.
 ** The Grid
+
+    #+BEGIN_SRC ditaa :file foo.png :commandline -roS
+
+/-------------------------------------------------+-------------------------------------------\  
+|Strenghts                                        |Opportunities                              |
+|cFFF                                             |cFFF                                       |
+|o Large branch network                           |o Growing population                       |
+|o Adequate staff strength                        |o Increase in number of local events       |
+|o Interpersonal network of management            |o Higher internet penetration              |
+|o Variety of products offered                    |o Increase in number of real estate        |
+|o Size of company                                |  development companies                    |
+|o Customization service                          |o                                          |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
++-------------------------------------------------+-------------------------------------------+
+|Weaknesses                                       |Threats                                    |
+|cFFF                                             |cFFF                                       |
+|o No actual credit facility                      |                                           |
+|o Finances are vulnerable to exchange rate       |                                           |
+|  fluctuations                                   |                                           |
+|o Slow growth in international markets           |                                           |
+|o Not all managers have embraced the             |                                           |
+|  marketing orientation concept                  |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+|                                                 |                                           |
+\-------------------------------------------------+-------------------------------------------/
+
+
+
+    #+END_SRC
+
+    #+RESULTS:
+    [[file:foo.png]]
+
 ** Analysis of the Grid
 * Critical Issues
 [Further detailed analysis of the findings in the SWOT grid and strategies the
