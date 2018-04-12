@@ -40,8 +40,8 @@ DBS Systems Ghana Ltd. tries to incorporate the values of Quality, Affordability
 Excellence and Speed in all their activities. [Please expand on each point here].
 * Situational Analysis
 ** Internal Analysis
-**** Marketing Audit
-***** Marketing Environment Audit 
+*** Marketing Audit
+**** Marketing Environment Audit 
 
 [Summary Paragraph Goes here]
 
@@ -99,7 +99,7 @@ them, the same could not be said about all their competitors. Some of their
 competitors are owned by politicians and a change in government may lead to a
 change in profitability and ability to compete. However, their main competitor,
 Raincoat is affected in similar ways by a change of government as it does them.
-***** Marketing Strategy Audit
+**** Marketing Strategy Audit
 
 [Summary Paragraph Goes here]
 
@@ -129,7 +129,7 @@ following.
  - Varied design. All the roofing sheets come in different forms and colors that
    is aimed at appealing to every customer.
  - Varied product phase???????
-***** Marketing Organization Audit
+**** Marketing Organization Audit
 
  [ Summary paragraph goes here]
 
@@ -143,8 +143,8 @@ In the development of new products, the marketing department is
 allowed to conduct market surveys to determine whether there is a
 market for the new product.
 
-***** Marketing Systems Audit
-***** Marketing Productivity Audit
+**** Marketing Systems Audit
+**** Marketing Productivity Audit
 
 [Summary paragraph goes here]
 
@@ -156,7 +156,7 @@ advertisement [Please provide some citation!!!]
 Should the company enter, expand, contract or withdraw from any business
 segments, and what would be the short and long-run profit consequences?
 
-***** Marketing Function Audit
+**** Marketing Function Audit
 
 [Summary paragraph goes here]
 
@@ -284,6 +284,9 @@ environment. They are discussed in the following sections.
      availability of quality staff who are trained periodically to
      meet changing needs.
    - Their production costs are decreasing due to economies of scale.
+   - High quality products. The company offers very high products and
+     their marketing efforts are currently geared to position this
+     image unto the minds of the prospective buyers.
 ** Weaknesses
    - No actual credit facility. The company currently only offers
      credit to religious organisations and to the general public
@@ -310,7 +313,7 @@ environment. They are discussed in the following sections.
    - The increase in the number of real estate development companies
      creates an opportunity for the company to partner with each of
      these companies in order to increase sales.
-   - Currently the housing deficit in Ghana stands at 
+   - Currently the housing deficit in Ghana stands at ?????
    - The removal of trade bariers within the ECOWAS region has led to
      an opening up of the West African market to the company.
 ** Threats
@@ -339,7 +342,7 @@ created the following grid as a visual representation of our findings.
 |o Variety of products offered                    |o Increase in number of real estate        |
 |o Size of company                                |  development companies                    |
 |o Customization service                          |o Current housing deficit in Ghana         |
-|                                                 |o Removal of Trade barriers in Ghana       |
+|o High quality products                          |o Removal of Trade barriers in Ghana       |
 |                                                 |                                           |
 |                                                 |                                           |
 |                                                 |                                           |
@@ -368,11 +371,59 @@ created the following grid as a visual representation of our findings.
 
     #+RESULTS:
     [[file:foo.png]]
-
-** Analysis of the Grid
+    
 * Critical Issues
-[Further detailed analysis of the findings in the SWOT grid and strategies the
-company can use to  best deal with them.]
+
+[Summary Paragraph goes here]
+
+In order to address the credit facility problem, the company needs to
+develop a credit facility policy which should be aimed at the growing
+middle class,loyal customers and institutions
+
+The firm's current policy in dealing with fluctuations of exchange
+rate and inflation is to pass it on through prices to their
+customers. This in our opinion is not ideal since it causes
+flautuations in their market price hence......
+
+On our visit, we realise not all employees embrace the marketting
+concept. This is causing the company to lose potential customers. The
+firm needs re-orient workers on the importance of marketting concept. 
+
+Currently, the company tries to support only some local
+events. However, in order to place itself in more of their prospective
+customers' minds, the company
+needs to engage itself in even more external events such as
+festivals, where some of its target customers will be present.
+
+The company has a website which currently displays some of its
+products and some facts about the company. However, the social media links
+displayed on the website seem to be malfunctioning. Also, there are
+numerous complaints by grieved customers on their facebook page which
+have been left unreplied. The company needs to respond to such
+customers in order not to create a negative image among their
+prospective customers who try to visit their facebook page.
+
+The growing number of real estate agencies in the country presents a
+huge opportunity for growth. The company can cash in on the
+opportunity by creating the most attractive package for these
+companies and also looking out for strategic partnerships with these
+companies in order to improve sales.
+
+The activities of new entrants is known to the company. These smaller
+firms offer any product that the customer needs at very low prices but
+there is no guarantee of the product's quality. The company's current
+response is to do adverts that highlight the durability of their
+products. As an additional measure, the company can embark on a
+campaign to increase awareness in the public about the poor quality of
+the new entrants' products.
+
+In our interaction with the marketing manager, there seems to be no
+clear document that details the current and projected actions of their
+biggest competitors. This means that the company may not be able to
+have quick responses to sudden changes in the strategies being
+employed by their competitors. To prevent this, the company must start
+building a profile on each of its competitors and how they are going
+to respond to each of their actions.
 * Key Success Factors
 ** Industry analysis
 *** Find out what the bigger players are doing right
@@ -408,13 +459,96 @@ schools, churches, businesses and real estate developers.
 ** Entrepreneural and leadership development
 ** Customer and Supplier Intimacy
 * Tatics
+DBS, just like most aluminuim companies make use of elements under the
+marketing mix. The marketing mix has to do with a combination of
+factors which can be controlled by the company to influence consumers
+to purchase its products. The elements DBS uses under the marketing
+mix are price, products, place and promotion.
+
 ** Product
+DBS exist to provide roofing needs to customers, as well as
+providing installation and maintenance sources. As a result of
+the dynamic nature of customers, DBS conducts extensive research on the
+trends of customer needs. This also includes the study of
+the product life cycle from introduction through to decline. DBS
+has diversified by bringing in varied product lines to meet the
+customer needs. Each product offering is targeted at some specific
+segment of the market with the aim of satisfying their peculiar needs.
+Below are the various product offerings: 
+
+ - Eurotiles 
+ - Industrial deep trough
+ - Invested box rib
+ - Strip lock 
+ - Self lock
+ - Trusses
+ - Roof accessories (PVC rain gutter, valley, ridge sap)
+
+Here is a table that shows each product, the targeted group of
+customers and the peculiar needs of the group of customers. 
+|------------------------+------------------------------------------+--------------------------|
+| Product                | Targeted Customer Segment                | Peculiar Needs Satisfied |
+|------------------------+------------------------------------------+--------------------------|
+| Eurotiles              | - People living near the coastal regions |                          |
+|                        | - High net-worth individuals             |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Industrial deep trough |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Invested box rip       |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Strip lock             |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Self lock              |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Trusses                |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Roof accessories       |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+
+
+When bringing out new products, the following are considered:
+ -  What does the customer wants from the product?
+ -  What features does the product have?
+ -  Sizes and colour available?
+ -  How different is the products from competitors product
+
 ** Price
+DBS makes sure that products are adequately priced. This is done
+on a length product retail price. The pricing of a product
+goes a long way to determine our profit and surround [What?]. In setting
+prices of our products, we factor in the following:
+
+ -  Our cost of production
+ -  Customers perceived product [quality?]
+ -  Price elasticity
+ -  Prices of our competitiors
+
+[With what objective ... Since there is no clear objective, and
+given the peculiar strengths of the company, the company should price
+in such a way that the quality of the product is communicated to the
+customer.
+This can only be achieved when there is a good credit facility
+available to our selected target market ie. the growing middle class]
 ** Promotion
+Promotion boosts the brand recognition and sales. DBS does not
+compromise on this. It is with this view DBS capitalizes on: 
+
+ - Advertising, electronic media electronic media (TV, radio,
+   internet), print media (newspapers)
+ - Sales promotion: discunts on purchases, partial credit
+ - Word of mouth from customers to potential customers.
 ** Place
-** Process
-** People
-** Programs
+Place / distribution is very key to the company. We therefore make it as
+much as possible very accessible to our customers as well as
+potential customers. At DBS we try as much as possible to have
+branches close to customers that is why we are present in Accra,
+Kumasi, tamale, takoradi sunyani. All these branches have
+manufacturing plants, thus, DBS delivers to the door step of our
+customers. We consider the following in distribution:
+
+ - Where our clients are located [Explanation?]
+ - How different is our distribution channel different from that of
+   competitors
 * Implementation and Control
 ** Making Financial Projections 
 ** Reporting
