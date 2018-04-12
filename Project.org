@@ -25,7 +25,16 @@ Kumasi, Tamale, Takoradi and Sunyani.
 ** Proposed Financial Results
 * Mission and Vision
 ** Mission statement
+DBS exits to manufacture aluminum roofing sheets, roofing accessories,
+aluzinc trusses. With our 20 years experience we have grown to
+understand the dynamics of the built environment and hence position
+ourselves to constantly provide changing construction needs of the
+customer.
 ** Vision
+DBS seeks to be present in and beyond West Africa. To be a one stop shop
+for roofing sheets, aluzinc trusees and roofing accessories across the
+West African sub-region and beyond. 
+
 ** Core Values
 DBS Systems Ghana Ltd. tries to incorporate the values of Quality, Affordability,
 Excellence and Speed in all their activities. [Please expand on each point here].
@@ -257,7 +266,9 @@ environment. They are discussed in the following sections.
    - Adequate staff strength to help meet all dynamic needs of the
      competitive environment the company finds itself. The staff seem
      to be knowledgeable and can handle product innovations to meet
-     customers' needs.
+     customers' needs. The staff undergo periodic training to help
+     them meet the changing needs of their customers and also cope
+     with new technologies that emerge in the industry.
    - The management of the company have a good interpersonal contact
      network. Through this network, they are able to get
      recommendations from existing customers whose expectations have been met
@@ -268,12 +279,26 @@ environment. They are discussed in the following sections.
      lower interest rate.
    - The company can offer customized products to customers at
      relatively lower cost.
+   - Expertise. The company boasts of 20 years of experience enables them to
+     provide top notch quality products and services with the
+     availability of quality staff who are trained periodically to
+     meet changing needs.
+   - Their production costs are decreasing due to economies of scale.
 ** Weaknesses
-   - No actual credit facility.
-   - Finances are vulnerable to exchange rate fluctuations
-   - Slow grow inthe the international market
+   - No actual credit facility. The company currently only offers
+     credit to religious organisations and to the general public
+     during sales promotion periods. Religious organisations are
+     required to settle 50% of the total bill on the spot and pay the
+     rest within 3 months. All customers, aside from religious
+     organisations are 
+     required to make a down payment of 70% with the rest to be
+     settled within 2 months. 
+   - Slow growth in penetrating the international market. The company's plans
+     to expand into the West African sub-region has not been very
+     successful. Their current market penetration programs have not
+     yielded as much success as they would have desired.
    - Not all managers in the organisation have embraced the marketing
-     orientation concept.
+     orientation concept. 
 ** Opportunities
    - Population growth implies that the target market is growing. This means that there is room to
      increase sales.
@@ -299,8 +324,10 @@ environment. They are discussed in the following sections.
      the company.
    - Frequent changes in utilities bill could impact finances and
      operations.
+   - High competition within the industry.
 ** The Grid
-
+Given the strengths, weaknesses opportunities and threats, we have
+created the following grid as a visual representation of our findings.
     #+BEGIN_SRC ditaa :file foo.png :commandline -roS
 
 /-------------------------------------------------+-------------------------------------------\  
@@ -311,8 +338,8 @@ environment. They are discussed in the following sections.
 |o Interpersonal network of management            |o Higher internet penetration              |
 |o Variety of products offered                    |o Increase in number of real estate        |
 |o Size of company                                |  development companies                    |
-|o Customization service                          |o                                          |
-|                                                 |                                           |
+|o Customization service                          |o Current housing deficit in Ghana         |
+|                                                 |o Removal of Trade barriers in Ghana       |
 |                                                 |                                           |
 |                                                 |                                           |
 |                                                 |                                           |
@@ -322,14 +349,12 @@ environment. They are discussed in the following sections.
 +-------------------------------------------------+-------------------------------------------+
 |Weaknesses                                       |Threats                                    |
 |cFFF                                             |cFFF                                       |
-|o No actual credit facility                      |                                           |
-|o Finances are vulnerable to exchange rate       |                                           |
-|  fluctuations                                   |                                           |
-|o Slow growth in international markets           |                                           |
-|o Not all managers have embraced the             |                                           |
-|  marketing orientation concept                  |                                           |
-|                                                 |                                           |
-|                                                 |                                           |
+|o No actual credit facility                      |o New entrants into the industry           |
+|o Finances are vulnerable to exchange rate       |o Frequent changes in exchange rates       |
+|  fluctuations                                   |o Inflation in the macro-economic          |
+|o Slow growth in international markets           |  environment                              |
+|o Not all managers have embraced the             |o Frequent and unannounced changes in      |
+|  marketing orientation concept                  |  utility rates.                           |
 |                                                 |                                           |
 |                                                 |                                           |
 |                                                 |                                           |
@@ -362,6 +387,22 @@ company can use to  best deal with them.]
 * Objectives
 ** Marketing objectives
 * Strategy
+The company's strategy entails focusing on a specific area of
+expertise in which they are strong as a company. They are true experts in
+the manufacturing of roofing needs of customers and providing tailor-made
+needs through their wide branch network, each furnished with manufacturing
+plants. 
+
+DBS concentrates on the three geographical areas in Ghana -- Southerns
+(Greater Accra, Central, Western and part of Volta Region), Middle
+belt (Ashanti and Brong Ahafo Region) and the Northern( Upper East,
+Upper West and Northern Region).
+
+Their target market is usually private and commercial propertys
+owners. Private owners mainly consist of individual residential
+properties while commercial consist of various institutions such as
+schools, churches, businesses and real estate developers.
+
 ** The Ansoff's matrix
 ** Website and social media vibrancy
 ** Entrepreneural and leadership development
