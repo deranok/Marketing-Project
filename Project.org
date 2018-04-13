@@ -39,11 +39,24 @@ West African sub-region and beyond.
 DBS Systems Ghana Ltd. tries to incorporate the values of Quality, Affordability,
 Excellence and Speed in all their activities. [Please expand on each point here].
 * Situational Analysis
-** Internal Analysis
-*** Marketing Audit
-**** Marketing Environment Audit 
 
-[Summary Paragraph Goes here]
+* Internal Analysis
+The internal analysis of the company that was conducted focused on the
+marketing, human resources, financial and technological functions of
+the company. [please continue with your main findings] 
+** Marketing Audit
+A market audit was conducted in order to gain a clearer picture of the
+state of affairs of the marketing function in the company. The main
+thematic areas of interest were the marketing environment, strategy, organisation,
+systems, productivity and function.
+*** Marketing Environment Audit 
+The main competitor of the company is Raincoat [Aluminium Company?],
+which currently holds about 40% of the total share of the market. The
+company is currently the challenger in the market, holding about 30%
+of the total market. The target market is broad but products are
+offered to the sub-divisions based on income and geographical
+location.
+
 
 The main competitors are the companies that the prospective customers think
 about as alternative when buying. The main one is Raincoat. Others are
@@ -75,7 +88,13 @@ exception. The market's needs have changed over the years. Current trends includ
 the need for Eurotiles, which is a new product in the market to suit customers
 who want to distinguish themselves. Self-locking roofing sheets which are
 cheaper and easier to maintain than strip-lock sheets. Another current trend is
-the use of aluzinc trusses to replace wooden trusses. DBS provides all of these
+the use of aluzinc trusses to replace wooden trusses. 
+
+The current
+product offerings are Eurotiles, inverted box 
+rib, Industrial Deep Trough (IDT), Steel Trusses, PVC and aluzinc
+raingutters, ridge cap, valley, PVC foam sheet, raden shield, light
+gauge steel, modern strip locks and shingles.   DBS provides all of these
 products to meet the changing needs of customers.
 
 The company provides a seemingly unsatisfactory credit policy to customers. All
@@ -99,9 +118,11 @@ them, the same could not be said about all their competitors. Some of their
 competitors are owned by politicians and a change in government may lead to a
 change in profitability and ability to compete. However, their main competitor,
 Raincoat is affected in similar ways by a change of government as it does them.
-**** Marketing Strategy Audit
+*** Marketing Strategy Audit
+The current strategy of the company is to expand their market share
+by differentiating system provision of durable products, exclusive
+lines, after-sales service. 
 
-[Summary Paragraph Goes here]
 
 The unique benefits that the company tries to deliver to customers include the
 following.
@@ -129,7 +150,7 @@ following.
  - Varied design. All the roofing sheets come in different forms and colors that
    is aimed at appealing to every customer.
  - Varied product phase???????
-**** Marketing Organization Audit
+*** Marketing Organization Audit
 
  [ Summary paragraph goes here]
 
@@ -143,8 +164,8 @@ In the development of new products, the marketing department is
 allowed to conduct market surveys to determine whether there is a
 market for the new product.
 
-**** Marketing Systems Audit
-**** Marketing Productivity Audit
+*** Marketing Systems Audit
+*** Marketing Productivity Audit
 
 [Summary paragraph goes here]
 
@@ -156,7 +177,7 @@ advertisement [Please provide some citation!!!]
 Should the company enter, expand, contract or withdraw from any business
 segments, and what would be the short and long-run profit consequences?
 
-**** Marketing Function Audit
+*** Marketing Function Audit
 
 [Summary paragraph goes here]
 
@@ -176,7 +197,7 @@ Audit above, all these advertisements costs approximately 7% of
 revenue. This does not seem excessive as the program, according to the
 marketing manager, the increase in sales revenue as a result of
 advertising is higher than the cost of advertising.
-**** Financial Resources
+** Financial Resources
 Inflation has great impact, which often leads to higher prices of raw
 materials, which affects the prices of finished goods.
 
@@ -192,7 +213,7 @@ Current cost reduction strategies involve the following.
       curbing unneccessary movement.
     - Production of good quality products in order to reduce warranty
       and repair work costs.
-**** Human Resources
+** Human Resources
 There are approximately 500 employees in the organisation. According
 to the General Manager.
 
@@ -206,13 +227,13 @@ The process a quite generic, it goes through firs requisition to HR,
 then to interview then to final appointment.
 
 Frequent internal employee appraisals are done.
-**** Technological Appraisal
-** External Analysis
-*** Customers
+** Technological Appraisal
+* External Analysis
+** Customers
 
 [Summary paragraph goes here]
 
-Currently, the population of Ghana is approximately 29.4 million, that
+Acccording to cite:WinNT Currently, the population of Ghana is approximately 29.4 million, that
 is, 2.18% growth from the previous year. 
 
 Customers complaints are taken seriously. All complaints are either
@@ -245,14 +266,11 @@ number of the firm's branches, which are distributed strategically to
 cater of each geographical segment of the target market, a website
 through which customers can easily reach them, ask questions and
 receive timely respnse. 
-*** Competitors
-*** Industrial Analysis
-*** Distribution analysis
-*** Threat of new entrants
-*** Threat of substitutes
-*** Government and regulatory body activities
-**** Current actions
-**** Potential actions
+** Competitors
+** Industrial Analysis
+** Distribution analysis
+** Threat of new entrants
+** Threat of substitutes
 * SWOT Analysis
 From the internal and external analysis the we have conducted, we have
 identified the unique strengths and weakness of the company and the
@@ -428,7 +446,7 @@ to respond to each of their actions.
 ** Industry analysis
 *** Find out what the bigger players are doing right
 ** Internal strategies
-**** What is the current strategy employed by the company?
+*** What is the current strategy employed by the company?
 ** Customer views
 *** What do the customers really want?
 * Market Definition
@@ -505,7 +523,6 @@ customers and the peculiar needs of the group of customers.
 | Roof accessories       |                                          |                          |
 |------------------------+------------------------------------------+--------------------------|
 
-
 When bringing out new products, the following are considered:
  -  What does the customer wants from the product?
  -  What features does the product have?
@@ -553,3 +570,7 @@ customers. We consider the following in distribution:
 ** Making Financial Projections 
 ** Reporting
 ** Control
+
+bibliograpy:Project.bib
+
+bibliography:Project.bib
