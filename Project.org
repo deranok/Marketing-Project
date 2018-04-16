@@ -7,7 +7,7 @@ Kumasi to provide roofing needs. They produce roofing sheets, roofing
 accessories, steel trusses, shingle tiles and Eurotiles.
 
 DBS has grown to understand the changing needs of its customers and has
-positioned itself to consistently provide the changing needs of its custoers as
+positioned itself to consistently provide the changing needs of its customers as
 far as construction needs are concerned.
 
 They have 5 main branches accross the country, which are situated in Accra,
@@ -39,7 +39,6 @@ West African sub-region and beyond.
 DBS Systems Ghana Ltd. tries to incorporate the values of Quality, Affordability,
 Excellence and Speed in all their activities. [Please expand on each point here].
 * Situational Analysis
-
 * Internal Analysis
 The internal analysis of the company that was conducted focused on the
 marketing, human resources, financial and technological functions of
@@ -55,8 +54,9 @@ which currently holds about 40% of the total share of the market. The
 company is currently the challenger in the market, holding about 30%
 of the total market. The target market is broad but products are
 offered to the sub-divisions based on income and geographical
-location.
-
+location. The market is growing but competition is getting even more
+intense. The industry also faces a problem from new entrants who offer
+almost everything at very low costs with no quality guarantee.
 
 The main competitors are the companies that the prospective customers think
 about as alternative when buying. The main one is Raincoat. Others are
@@ -121,7 +121,11 @@ Raincoat is affected in similar ways by a change of government as it does them.
 *** Marketing Strategy Audit
 The current strategy of the company is to expand their market share
 by differentiating system provision of durable products, exclusive
-lines, after-sales service. 
+lines, after-sales service. The current marketing activites the
+company is engaged in involves intensive advertisements and sales
+promotions. The company also engages in some Corporate Social
+Responsibility programs such as donations to hospitals, sponsorship of
+street carnivals and festivals.
 
 
 The unique benefits that the company tries to deliver to customers include the
@@ -155,9 +159,27 @@ following.
  [ Summary paragraph goes here]
 
  [ Organisational diagram goes here]
+    #+BEGIN_SRC ditaa :file organogram.png :commandline -roS
+                                     |
+      +-------------------+----------+-----------+--------------------+
+      |                   |                      |                    |
+      |                   |                      |                    |
++------------+    +---------------+     +-----------------+    +----------------+         
+|            |    |               |     |                 |    |                |
+| Marketing  |    |    Finance    |     |    Human        |    |  Project and   |
+|            |    |               |     |  Resources      |    |  Operations    |
++------------+    +---------------+     +-----------------+    +----------------+
+    #+END_SRC
+
+    #+RESULTS:
+    [[file:organogram.png]]
 
  [ A brief description of the marketing department goes here]
-
+The marketing department is headed by the Marketing manager and his
+assitant. They are responsible for all the marketing activities of the
+company. They have a marketing team in place, who market the
+products to individuals and are paid on commission basis. 
+product, a commission team
  [ Highlight the problem between marketing and other departments here]
 
 In the development of new products, the marketing department is
@@ -178,11 +200,14 @@ Should the company enter, expand, contract or withdraw from any business
 segments, and what would be the short and long-run profit consequences?
 
 *** Marketing Function Audit
-
-[Summary paragraph goes here]
+The marketing department is usually involved in advertisement
+programs, promotional activities, corporate social responsibility
+activities and handling of the social media platforms of the
+organisation. They also conduct marketing surveys to ascertain the
+feasibility of new products.
 
 The company has been engaged in a program of aggressive advertisements
-for the past years. [how long?]. The marketing manager stated that
+in the past years. The marketing manager stated that
 program seems to be effective, as sales shot up after the program was
 initiated.
 
@@ -197,7 +222,16 @@ Audit above, all these advertisements costs approximately 7% of
 revenue. This does not seem excessive as the program, according to the
 marketing manager, the increase in sales revenue as a result of
 advertising is higher than the cost of advertising.
+
+The marketing department is also assists in new product development
+process. During the product development phase, they are tasked to
+determine the market feasibility of the product before the product
+goes through further development and released on the market.
 ** Financial Resources
+Their main sources of finance are through loans and capital but their
+pricing is heavily influenced by changes in the macroeconomic
+environment of the country.
+
 Inflation has great impact, which often leads to higher prices of raw
 materials, which affects the prices of finished goods.
 
@@ -227,16 +261,51 @@ The process a quite generic, it goes through firs requisition to HR,
 then to interview then to final appointment.
 
 Frequent internal employee appraisals are done.
+
+The marketing department is made up sales agents who are paid on
+commission basis. According to the marketing manager, the sales agents
+were not very satisfied with their compensation package. This led to a
+drop in sales for the last year.
 ** Technological Appraisal
+All the machines used by the company were in good condition. None of
+them were outdated or dysfunctional. Their main competitor, Raincoat
+Roofing systems boasts of the latest technology, which is only used by
+two companies in the world. In addition to the production
+system the company uses an MIS system that they use to monitor and
+control costs in all the departments of the company.
+
+The company employes a management information system called Issue
+Based Information System (IBIS). The
+system is able to generate and sort invoices. The system also links
+all the the department for easy monitoring of their other
+technological implements that are used in the company. This helps to
+reduce the operation costs.
+
+The machines used in operations are the following:
+  - Double head cutting machine. This machine is used by DBS to insert
+    cutting lists from the keyboard or import them from a USB key.
+  - Metrojet Roller tables. The roller tables are used to load and
+    unload the fence system combinable to any type of miter saw (for
+    aluminium, iron or wood) or to other machinery that need to vary
+    the length of processing.
+  - PERLA. A universal bending machine for execution of ring and ribs
+    on aluminium and iron through the use of guide roller in PVC.
+  - Standard Cranes and Hoist. This machines are used to lift
+    extremely heavy materials from one end to another.
 * External Analysis
 ** Customers
+The feedback received from customers were mixed. Customers were happy
+with the quality of the product and how the company delivers
+services. They were not happy with the credit facility and the
+interaction of the company with customers on their social media
+platform.
 
-[Summary paragraph goes here]
+Acccording to cite:WinNT Currently, the population of Ghana is
+approximately 29.4 million which implies a 2.18% growth from the
+previous year. 
 
-Acccording to cite:WinNT Currently, the population of Ghana is approximately 29.4 million, that
-is, 2.18% growth from the previous year. 
-
-Customers complaints are taken seriously. All complaints are either
+The company has a laid down procedure for receiving customer
+complaints. All complaints are either
 received directly at the office or through phone calls. Each complaint
 is investigated at the site and when the complaint is geniune, the
 appropriate action is taken. The company's internal policy is to
@@ -266,11 +335,32 @@ number of the firm's branches, which are distributed strategically to
 cater of each geographical segment of the target market, a website
 through which customers can easily reach them, ask questions and
 receive timely respnse. 
+
+There are some customer complaints on social media which have not been
+responded to.
+
+Some customers prefer full credit facilities on products products so
+they feel that the  current credit facilities offered are not
+adequate. 
+
+Some of the customers also feel that the information on the website of
+the company is not sufficient.
 ** Competitors
-** Industrial Analysis
-** Distribution analysis
-** Threat of new entrants
-** Threat of substitutes
+The competitors are the companies that the customers think about as
+providers of substitutes for the company's products.
+
+The main competitor is Raincoat roofing systems which holds about 40%
+of the total market. They have been in operations longer than DBS.
+Their main competitive strength is their ability
+to sell to institutional clients. They currently have the latest
+production technology in the market.
+
+The other competitors are Rocksters, Lion Aluminium, K.K. Peprah and
+Alu Africa.
+
+There are also other smaller players in the market. They provide
+customers with very low priced goods but with no guarantee of
+quality.
 * SWOT Analysis
 From the internal and external analysis the we have conducted, we have
 identified the unique strengths and weakness of the company and the
@@ -349,7 +439,7 @@ environment. They are discussed in the following sections.
 ** The Grid
 Given the strengths, weaknesses opportunities and threats, we have
 created the following grid as a visual representation of our findings.
-    #+BEGIN_SRC ditaa :file foo.png :commandline -roS
+    #+BEGIN_SRC ditaa :file swot.png :commandline -roS
 
 /-------------------------------------------------+-------------------------------------------\  
 |Strenghts                                        |Opportunities                              |
@@ -570,7 +660,5 @@ customers. We consider the following in distribution:
 ** Making Financial Projections 
 ** Reporting
 ** Control
-
-bibliograpy:Project.bib
 
 bibliography:Project.bib
