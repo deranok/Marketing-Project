@@ -39,17 +39,39 @@ West African sub-region and beyond.
 DBS Systems Ghana Ltd. tries to incorporate the values of Quality, Affordability,
 Excellence and Speed in all their activities. [Please expand on each point here].
 * Situational Analysis
+
 * Internal Analysis
 The internal analysis of the company that was conducted focused on the
 marketing, human resources, financial and technological functions of
-the company. [please continue with your main findings] 
+the company.
+
+DBS is a fairly large company with about 500 workers. The organisation
+consists of a hierarchical structure, with one CEO who also acts
+as the Managing Director at the very top of the structure he has a
+deputy, to whom the General Manager reports to. All functional
+managers, including the marketing manager report to the General
+Manager. 
+
+The company is furnished with modern production equipment which are
+good condition. 
+
+The company is financed mainly with capital and loans but prices are
+still vulnerable to exchange rate fluctuations on the foreign exchange
+market.
+
+The marketing department plays a key role in all marketing activities
+and most of their marketing programs have proved successful.
+
+Currently, the company is employs the strategy of providing the most
+durable goods, exclusive lines and after-sales service, with the aim
+of expanding the market share.
 ** Marketing Audit
 A market audit was conducted in order to gain a clearer picture of the
 state of affairs of the marketing function in the company. The main
 thematic areas of interest were the marketing environment, strategy, organisation,
 systems, productivity and function.
 *** Marketing Environment Audit 
-The main competitor of the company is Raincoat [Aluminium Company?],
+The main competitor of the company is Raincoat Roofing Systems,
 which currently holds about 40% of the total share of the market. The
 company is currently the challenger in the market, holding about 30%
 of the total market. The target market is broad but products are
@@ -153,19 +175,107 @@ following.
    products throughout the whole distribution process.
  - Varied design. All the roofing sheets come in different forms and colors that
    is aimed at appealing to every customer.
- - Varied product phase???????
+ - Varied products. This is explained below.
+
+**** Product
+DBS has diversified by bringing in varied product lines to meet the
+customer needs. Each product offering is targeted at some specific
+segment of the market with the aim of satisfying their peculiar needs.
+Below are the various product offerings: 
+
+ - Eurotiles 
+ - Industrial deep trough
+ - Invested box rib
+ - Strip lock 
+ - Self lock
+ - Trusses
+ - Roof accessories (PVC rain gutter, valley, ridge sap)
+
+Here is a table that shows each product, the targeted group of
+customers and the peculiar needs of the group of customers. 
+|------------------------+------------------------------------------+--------------------------|
+| Product                | Targeted Customer Segment                | Peculiar Needs Satisfied |
+|------------------------+------------------------------------------+--------------------------|
+| Eurotiles              | - People living near the coastal regions |                          |
+|                        | - High net-worth individuals             |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Industrial deep trough |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Invested box rip       |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Strip lock             |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Self lock              |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Trusses                |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+| Roof accessories       |                                          |                          |
+|------------------------+------------------------------------------+--------------------------|
+
+When bringing out new products, the following are considered:
+ -  What does the customer wants from the product?
+ -  What features does the product have?
+ -  Sizes and colour available?
+ -  How different is the products from competitors product
+**** Price
+DBS makes sure that products are adequately priced. This is done
+on a length product retail price. The pricing of a product
+goes a long way to determine our profit and surround [What?]. In setting
+prices of our products, we factor in the following:
+
+ -  Our cost of production
+ -  Customers perceived product [quality?]
+ -  Price elasticity
+ -  Prices of our competitiors
+
+[With what objective ... Since there is no clear objective, and
+given the peculiar strengths of the company, the company should price
+in such a way that the quality of the product is communicated to the
+customer.
+This can only be achieved when there is a good credit facility
+available to our selected target market ie. the growing middle class]
+**** Promotion
+Promotion boosts the brand recognition and sales. DBS does not
+compromise on this. It is with this view DBS capitalizes on: 
+
+ - Advertising, electronic media electronic media (TV, radio,
+   internet), print media (newspapers)
+ - Sales promotion: discunts on purchases, partial credit
+ - Word of mouth from customers to potential customers.
+**** Place
+The company has distribution outlets present in Accra,
+Kumasi, Tamale, Takoradi and Sunyani. All these branches have
+manufacturing plants.The current distribution strategy is based on the
+geographical consideration. That is, customer segments in the
+Coastal Areas of Ghana, The mid-region of Ghana and the Northern
+Region of Ghana. 
 *** Marketing Organization Audit
+The current organisational structure is hierarchical with the Chief
+Executive Officer/Managing Director (CEO/MD) at the very top, with the
+deputy managing director as the next in line, followed by the general
+manager and then the functional managers. Each functional manager has
+an assistant. 
 
- [ Summary paragraph goes here]
-
- [ Organisational diagram goes here]
     #+BEGIN_SRC ditaa :file organogram.png :commandline -roS
+                            +-----------------+
+                            |       CEO       |
+                            +--------+--------+
+                                     |
+                            +--------+--------+
+                            |     Deputy      |
+                            | General Manager |
+                            +--------+--------+
+                                     |
+                            +--------+--------+
+                            |                 |
+                            | General Manager |
+                            |                 |
+                            +--------+--------+  
                                      |
       +-------------------+----------+-----------+--------------------+
       |                   |                      |                    |
       |                   |                      |                    |
-+------------+    +---------------+     +-----------------+    +----------------+         
-|            |    |               |     |                 |    |                |
++-----+------+    +-------+-------+     +--------+--------+    +------+---------+         
 | Marketing  |    |    Finance    |     |    Human        |    |  Project and   |
 |            |    |               |     |  Resources      |    |  Operations    |
 +------------+    +---------------+     +-----------------+    +----------------+
@@ -174,31 +284,24 @@ following.
     #+RESULTS:
     [[file:organogram.png]]
 
- [ A brief description of the marketing department goes here]
 The marketing department is headed by the Marketing manager and his
 assitant. They are responsible for all the marketing activities of the
-company. They have a marketing team in place, who market the
+company. They have a marketing team in place, which is made of sales
+reps and commission agents, who market the
 products to individuals and are paid on commission basis. 
-product, a commission team
- [ Highlight the problem between marketing and other departments here]
 
 In the development of new products, the marketing department is
 allowed to conduct market surveys to determine whether there is a
 market for the new product.
 
-*** Marketing Systems Audit
 *** Marketing Productivity Audit
-
-[Summary paragraph goes here]
-
 The company spends approximately 7% of all sales revenue on advertisement. This,
 according to the marketing manager, does not seem to be too excessive given the
 amount of growth in sales that has been recorded historically due to
-advertisement [Please provide some citation!!!]
+advertisement.
 
 Should the company enter, expand, contract or withdraw from any business
 segments, and what would be the short and long-run profit consequences?
-
 *** Marketing Function Audit
 The marketing department is usually involved in advertisement
 programs, promotional activities, corporate social responsibility
@@ -230,7 +333,10 @@ goes through further development and released on the market.
 ** Financial Resources
 Their main sources of finance are through loans and capital but their
 pricing is heavily influenced by changes in the macroeconomic
-environment of the country.
+environment of the country. According to the marketing manager, sales
+revenue has been increasing steadily until 2017, where there was a
+slight dip in sales. This was attributed to the commission agents, who
+were not satisfied with their current compensation package.
 
 Inflation has great impact, which often leads to higher prices of raw
 materials, which affects the prices of finished goods.
@@ -571,121 +677,109 @@ to respond to each of their actions.
     so that they are inculcated into all operations of the business.
 * Market Definition
 ** Segmentation
+The currrent segmentation of the target market is based on
+geographical location and income classes. For the purpose of this
+document, we shall divide the whole target market into only 7 groups:
+
+  - High income or net-worth individuals. These are individuals who
+    earn above GHC 500,000 in a year.
+  - Medium income individuals. Individuals who earn between GHC 500,000
+    and GHC 100,000 a year.
+  - Low income indidividuals. Individuals who earn less than GHC
+    100,000 a year.
+  - Large institutions. Institutions who make more than GHC 10,000,000
+    revenue in a year.
+  - Medium size institutions. Institutions who make between GHC
+    10,000,000 and GHC 1,000,000 revenue in a year.
+  - Small institutions. Institutions who make less than GHC
+    1,000,000 revenue in a year.
+  - Religious organisations. All religious organisations.
 ** Targeting
+The target market consists of the following groups; Medium and low
+income individuals, institutions and religious organisations.
+
+In selecting the targeting market, we avoided the high income or
+net-worth individuals because their needs may conflict with our
+proposed strategy of intensive sales promotion among the general
+population. These individuals usually want products that demonstrate
+their "class" within society and they may not want to use a product
+that is targeted at people who are not in that "class". Also, our main
+competitor, Raincoat Roofing Systems has a brand with a stronger appeal to that
+class of customers than ours.
+
+The target market selected represents a group that the company has
+already gained some strength in marketing to. The company has already
+engaged in some marketing programs in the past that was aimed at increasing
+sales to religious organisations. Currently, the company is increasing
+its brand awareness among the medium and low income individuals. Our
+plan focuses on going further and capitalizing on the existing efforts
+by the company. 
+
+Another consideration was that the target demographic represents a
+growing demographic in Ghana. There is a growing class of medium and
+low income earners who desire to own their own buildings. The growing
+economy also presents an opportunity for more institutions to desire
+owning their own properties. The growth in these market segments
+presents a more sustainable approach to sales growth than in the other
+market segments.
 ** Positioning
-* Objectives
-** Marketing objectives
+In accordance with our objective to establish ourselves as experts by
+the end of five years, we will be positioning ourselves as the
+providers of high quality and best after-sales service providers of
+roofing materials and accessories. We shall use the slogan
+"Reliability starts at the top", in all our promotional efforts.
+
 * Strategy
-The company's strategy entails focusing on a specific area of
+We have set attainable objectives for a five year period (2019 –
+2024). We are aiming for a 40 percent share of the Ghanaian aluminum
+industry through a massive increase in sales volumes. 
+
+The company's strategy entails focusing on the specific areas of
 expertise in which they are strong as a company. They are true experts in
 the manufacturing of roofing needs of customers and providing tailor-made
 needs through their wide branch network, each furnished with manufacturing
 plants. 
-
-DBS concentrates on the three geographical areas in Ghana -- Southerns
-(Greater Accra, Central, Western and part of Volta Region), Middle
-belt (Ashanti and Brong Ahafo Region) and the Northern( Upper East,
-Upper West and Northern Region).
-
-Their target market is usually private and commercial propertys
-owners. Private owners mainly consist of individual residential
-properties while commercial consist of various institutions such as
-schools, churches, businesses and real estate developers.
-
 ** The Ansoff's matrix
+
+** Products
+Our products are in various categories based on each customer
+specifications. The roofing sheets will be sold with a 30-year
+warranty, the trusses will be sold with a 100-year warranty. We will
+introduce other competitive products based on the varying customer
+needs. High emphasis will be placed on variety, since it is one of the
+key determinants of customer satisfaction in the industry. 
+
+** Pricing 
+The prices we charge on our products will reflect a strategy of
+attracting and retaining large number of customers than our
+competitors. The prices charged will reflect the quality of the
+product. The current credit facilities will be augmented by allowing
+customers to have longer credit periods, based on certain
+pre-determined criteria.
+
+** Distribution 
+We aim at expanding our distribution network across and outside the
+country by adding more channel distributors until we have coverage in
+all major markets in the country. The distribution will be on
+selective basis through well-known businesses and shops. In support of
+channel partners, we will provide detailed specification handouts,
+full-color photos and displays featuring the product. We shall also
+set up small display centers at every location where residential
+construction work is dominant.
+
+** Marketing Communications 
+We will reinforce our brand name by integrating messages in all media
+in the country. The advertising shall be done with the aim of
+maintaining brand awareness and positioning in the minds of our target
+customers. We will use personal selling and sales promotions strategies to
+attract, retain, and motivate channel partners. Our communications
+will enhance purchases from these channel partners.
+
 ** Website and social media vibrancy
-** Entrepreneural and leadership development
-** Customer and Supplier Intimacy
-* Tatics
-DBS, just like most aluminuim companies make use of elements under the
-marketing mix. The marketing mix has to do with a combination of
-factors which can be controlled by the company to influence consumers
-to purchase its products. The elements DBS uses under the marketing
-mix are price, products, place and promotion.
-
-** Product
-DBS exist to provide roofing needs to customers, as well as
-providing installation and maintenance sources. As a result of
-the dynamic nature of customers, DBS conducts extensive research on the
-trends of customer needs. This also includes the study of
-the product life cycle from introduction through to decline. DBS
-has diversified by bringing in varied product lines to meet the
-customer needs. Each product offering is targeted at some specific
-segment of the market with the aim of satisfying their peculiar needs.
-Below are the various product offerings: 
-
- - Eurotiles 
- - Industrial deep trough
- - Invested box rib
- - Strip lock 
- - Self lock
- - Trusses
- - Roof accessories (PVC rain gutter, valley, ridge sap)
-
-Here is a table that shows each product, the targeted group of
-customers and the peculiar needs of the group of customers. 
-|------------------------+------------------------------------------+--------------------------|
-| Product                | Targeted Customer Segment                | Peculiar Needs Satisfied |
-|------------------------+------------------------------------------+--------------------------|
-| Eurotiles              | - People living near the coastal regions |                          |
-|                        | - High net-worth individuals             |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Industrial deep trough |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Invested box rip       |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Strip lock             |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Self lock              |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Trusses                |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-| Roof accessories       |                                          |                          |
-|------------------------+------------------------------------------+--------------------------|
-
-When bringing out new products, the following are considered:
- -  What does the customer wants from the product?
- -  What features does the product have?
- -  Sizes and colour available?
- -  How different is the products from competitors product
-
-** Price
-DBS makes sure that products are adequately priced. This is done
-on a length product retail price. The pricing of a product
-goes a long way to determine our profit and surround [What?]. In setting
-prices of our products, we factor in the following:
-
- -  Our cost of production
- -  Customers perceived product [quality?]
- -  Price elasticity
- -  Prices of our competitiors
-
-[With what objective ... Since there is no clear objective, and
-given the peculiar strengths of the company, the company should price
-in such a way that the quality of the product is communicated to the
-customer.
-This can only be achieved when there is a good credit facility
-available to our selected target market ie. the growing middle class]
-** Promotion
-Promotion boosts the brand recognition and sales. DBS does not
-compromise on this. It is with this view DBS capitalizes on: 
-
- - Advertising, electronic media electronic media (TV, radio,
-   internet), print media (newspapers)
- - Sales promotion: discunts on purchases, partial credit
- - Word of mouth from customers to potential customers.
-** Place
-Place / distribution is very key to the company. We therefore make it as
-much as possible very accessible to our customers as well as
-potential customers. At DBS we try as much as possible to have
-branches close to customers that is why we are present in Accra,
-Kumasi, tamale, takoradi sunyani. All these branches have
-manufacturing plants, thus, DBS delivers to the door step of our
-customers. We consider the following in distribution:
-
- - Where our clients are located [Explanation?]
- - How different is our distribution channel different from that of
-   competitors
+Since many people within the target market are internet users, we will
+also promote our brand by using social media and the internet. We will
+be able to better handle complaints and customer recommendations
+through the use of social media and the internet.
 * Implementation and Control
 ** Making Financial Projections 
 ** Reporting
